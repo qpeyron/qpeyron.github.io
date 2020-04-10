@@ -41,12 +41,14 @@ logo:                  /assets/icons/icon.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Quentin Peyron
-  email:               quentin.peyron@femto-st.fr
+  email:               quentin.peyron-at-femto-st.fr
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             News    
+	url:               /example/
   - title:             CV
     url:               /example/
   - title:             Publications
