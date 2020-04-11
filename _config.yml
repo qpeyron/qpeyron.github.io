@@ -47,8 +47,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             News    
-	url:               /example/
   - title:             CV
     url:               /example/
   - title:             Publications
